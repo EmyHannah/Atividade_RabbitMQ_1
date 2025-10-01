@@ -1,4 +1,4 @@
-# 📌 Projeto RabbitMQ com Python
+# 📌 Projeto RabbitM Atividade 1
 
 Este projeto demonstra um exemplo básico de comunicação entre dois programas em Python usando **RabbitMQ** e a biblioteca **pika**.  
 A ferramenta utilizada para desenvolvimento e execução foi o **Visual Studio Code (VS Code)**.
